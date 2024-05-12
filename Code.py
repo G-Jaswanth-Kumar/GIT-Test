@@ -1,0 +1,1 @@
+print("Jaswanth kumar"+"New course")
